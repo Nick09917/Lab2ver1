@@ -59,6 +59,6 @@
      }
  }
 ```
-![33](https://github.com/Nick09917/Lab2ver1/assets/115313324/127382c0-2ebe-447a-a47d-53dc834720cc)
+![3](https://github.com/Nick09917/Lab2ver1/assets/115313324/127382c0-2ebe-447a-a47d-53dc834720cc)
 ![1](https://github.com/Nick09917/Lab2ver1/assets/115313324/f977310a-80e6-41c9-ae27-9e3a048e8362)
 ![2](https://github.com/Nick09917/Lab2ver1/assets/115313324/f314d643-a3ff-43f4-9a3d-251c5f2b3b12)
